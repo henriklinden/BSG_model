@@ -9,4 +9,4 @@ bioRxiv 2021.08.31.458405; doi: https://doi.org/10.1101/2021.08.31.458405
 
 
 
-The scripts require Python3 and the packages numpy, matplotlib, numba and astropy. 
+The scripts require Python3 and the packages numpy, scipy, matplotlib, numba and astropy. 
