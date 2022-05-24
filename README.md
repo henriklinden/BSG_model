@@ -1,6 +1,3 @@
-# BSG_model
-Scripts to reproduce Linden2022 figures
-
 These scripts reproduce the main and supplemental figures in the preprint:
 
 Movement is governed by rotational population dynamics in spinal motor networks
